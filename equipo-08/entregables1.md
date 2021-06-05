@@ -1,6 +1,6 @@
-- Número del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en tu equipo:
-- ¿Qué problema global eligieron ustedes?
-- ¿Porque eligieron ese problema?
+- Número del equipo: 8
+- Nombre del equipo: Escuadrón Ing.
+- Nombre de todos miembros en tu equipo: Jazmin Tejas, Alejandra Muñoz, Iliana Sánchez, Rocio Reyna
+- ¿Qué problema global eligieron ustedes? Uso inapropiado e indirecto del agua 
+- ¿Porque eligieron ese problema? 
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
