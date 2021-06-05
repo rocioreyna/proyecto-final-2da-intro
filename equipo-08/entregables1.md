@@ -1,6 +1,6 @@
-- Número del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en tu equipo:
-- ¿Qué problema global eligieron ustedes?
-- ¿Porque eligieron ese problema?
-- Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
+- Número del equipo: 8
+- Nombre del equipo: Escuadrón Ing.
+- Nombre de todos miembros en tu equipo: Jazmin Tejas, Alejandra Muñoz, Iliana Sánchez, Rocio Reyna
+- ¿Qué problema global eligieron ustedes? Uso inapropiado e indirecto del agua 
+- ¿Porque eligieron ese problema? Nos llamó la atención porque se tiene un gran impacto en dos sentidos: el consumo de carnes y el consumo de plásticos, ambos procesos consumen una gran cantidad de agua, lo cual impacta en la disponibilidad del líquido para el bienestar de las personas. El consumo de carnes tiene un impacto indirecto en el uso del agua, ya que se tiene un gran uso desde el momento en que los animales la consumen y que el pasto se riega para el alimento de los mismos. El consumo de productos que vienen en plástico diferentes empaques, tiene un consumo indirecto de agua debido a que en su proceso se utiliza agua para su manufactura.
+- Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): Reducir el consumo de productos que requieren agua para sus procesos como el sector de ganadería y plásticos, en específico reducción de consumo de carne y de envases de productos como shampoo, detergente, acondicionador, jabón, etc.
